@@ -1,0 +1,13 @@
+GET http://localhost:3099/farming
+
+###
+
+POST http://localhost:3099/farming/start/leo
+Content-Type: application/json
+
+###
+
+POST http://localhost:3099/farming/stop/leo
+Content-Type: application/json
+
+###
